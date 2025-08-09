@@ -2,5 +2,4 @@
 
 lets learn how to use github
 <br>
-author-saba parween
-ls
+author-saba parween saba
